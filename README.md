@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<!-- BANNER -->
+<!-- BANNER --> Nghĩa test
 
 <p align="center">
   <img src="YOUR_BANNER_URL" alt="Banner" width="100%" />
